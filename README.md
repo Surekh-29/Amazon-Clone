@@ -9,16 +9,22 @@ The HTML code defines the structure of the webpage, including the header, search
 
 Here is a breakdown of the different sections in the code:
 
+
 Header:
 Contains the Amazon logo, delivery address, search bar, language selection, sign-in information, and cart icon.
+
 Bottom Panel:
 ntains links to different sections such as Today's Deals, Customer Service, Registry, Gift Cards, and Sell.
+
 Heor Section:
 Display a message witha link to the Amazon India website.
+
 Shop Section:
 Displays different product categories with images and "See More" links.
+
 Footer:
 Contains multiple sections with links to various pages and information about Amazon.
+
 The CSS code defines the styles for different elements in the webpage, such as the header, search bar, bottom panel, hero section, shop section, and footer.
 
 Note: The code references external resources such as font files and images. Make sure to have the necessary files in the specified locations or update the file paths accordingly for the website to display correctly.
